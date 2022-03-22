@@ -1,6 +1,6 @@
-# by billythegoat356
+# by aerox
 
-# https://github.com/billythegoat356/Scarecrow
+# https://github.com/AeroxDev/Scarecrow
 
 
 from os import name, chdir
@@ -10,7 +10,7 @@ from pystyle import Anime, Colorate, Colors, Center, System, Write
 
 code = """# Protected with Scarecrow
 
-# https://github.com/billythegoat356/Scarecrow
+# https://github.com/AeroxDev/Scarecrow
 
 
 try:        
@@ -36,7 +36,7 @@ except:
     pass
 
 
-# by billythegoat356
+# by aerox
 \n\n\n"""
 
 
