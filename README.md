@@ -72,4 +72,4 @@ If you want to add processes names to be stopped, make a pull request!
 
 -----
 
-### <p align="center">billythegoat356</p>
+### <p align="center">Aerox</p>
